@@ -7,6 +7,9 @@ public class amz001 {
 System.out.println("Amezon");
 
 System.out.println("Second changes");
+
+//class pushed on master after some changes
+System.out.println("compair");
 	}
 
 }
